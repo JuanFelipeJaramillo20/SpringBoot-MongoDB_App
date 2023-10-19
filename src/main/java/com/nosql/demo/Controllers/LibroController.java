@@ -1,5 +1,7 @@
-package com.nosql.demo;
+package com.nosql.demo.Controllers;
 
+import com.nosql.demo.RequestObjects.LibroCreateRequest;
+import com.nosql.demo.Services.LibroService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.beans.factory.annotation.Autowired;

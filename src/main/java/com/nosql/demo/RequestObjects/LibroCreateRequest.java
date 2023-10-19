@@ -1,4 +1,4 @@
-package com.nosql.demo;
+package com.nosql.demo.RequestObjects;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
